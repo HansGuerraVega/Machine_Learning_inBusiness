@@ -45,8 +45,8 @@ Prepare for the profit calculation:
 - Write a function to calculate the profit for a set of selected oil wells and model the predictions:
 - Select the 200 wells with the highest prediction values ​​from each of the three regions (i.e., 'csv' files).
 - Summarize the target reserve volume based on these predictions. Store the predictions for the 200 wells in each region. de las 3 regiones.
-- Calcula la ganancia potencial de los 200 pozos principales por región. Presenta tus conclusiones: propón una región para el desarrollo de pozos petrolíferos y justifica tu elección.
-- Calcula riesgos y ganancias para cada región:
-- Utilizando las predicciones que almacenaste, emplea la técnica del bootstrapping con 1000 muestras para hallar la distribución de los beneficios.
-- Encuentra el beneficio promedio, el intervalo de confianza del 95% y el riesgo de pérdidas. La pérdida es una ganancia negativa, calcúlala como una probabilidad y luego exprésala como un porcentaje.
-- Presenta tus conclusiones: propón una región para el desarrollo de pozos petrolíferos y justifica tu elección. ¿Coincide tu elección con la elección anterior en el punto 4.3?
+- Calculate the potential profit from the top 200 wells per region. Present your conclusions: Propose a region for oil well development and justify your choice.
+- Calculate risks and profits for each region:
+- Using the predictions you stored, use the bootstrapping technique with 1,000 samples to find the profit distribution.
+- Find the average profit, the 95% confidence interval, and the risk of loss. Loss is a negative profit; calculate it as a probability and then express it as a percentage.
+- Present your conclusions: Propose a region for oil well development and justify your choice. Does your choice match the previous choice in point 4.3?
